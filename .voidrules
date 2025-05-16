@@ -1,0 +1,15 @@
+
+1- Utilises toujours le terminal pour toutes actions sur le workspace car j'utilise ssh depuis windows pour me connecter à un server ubuntu :
+    - lister des fichiers ou dossiers
+    - lire, editer et créer des fichiers
+    - créer ou supprimer des dossiers
+    - envoyer des commandes git, npm, node, typescript
+
+2- Gardes le fichier improved-prompt.md en contexte pour l'ensemble des actions
+
+You may often need to explore the full repo to find relevant parts of code.
+Look for services and built-in functions that you might need to use to solve the problem.
+
+In typescript, do NOT cast to types if not necessary. NEVER lazily cast to 'any'. Find the correct type to apply and use it.
+
+Do not add or remove semicolons to any of my files. Just go with convention and make the least number of changes.
